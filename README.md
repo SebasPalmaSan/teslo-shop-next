@@ -1,4 +1,4 @@
-Eccomerce Teslo Shop realizado con NextJs, TypeScript y Tailwind
+Ecommerce Teslo Shop realizado con NextJs, TypeScript y Tailwind
 
 Home Desktop
 
