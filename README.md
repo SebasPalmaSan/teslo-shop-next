@@ -1,4 +1,4 @@
-Ecommerce Teslo Shop realizado con NextJs, TypeScript y Tailwind
+Ecommerce Teslo Shop realizado con NextJs, TypeScript y Tailwind durante curso NextJs: Framework de React para producción. Devtalles
 
 Home Desktop
 
