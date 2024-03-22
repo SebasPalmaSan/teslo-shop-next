@@ -11,7 +11,7 @@ const productsInCart = [
   initialData.products[2],
 ];
 
-function CartPage() {
+function CheckoutPage() {
   return (
     <div className="flex justify-center items-center mb-72 px-10 sm:px-10">
       <div className="flex flex-col w-[1000px]">
@@ -83,11 +83,11 @@ function CartPage() {
               <p className="mb-5">
                 {/* Disclainer */}
                 <span className="text-xs">
-                  Al Confirmar compra, aceptas nuestros{" "}
+                  Al Confirmar compra, aceptas nuestros
                   <a href="/" className="underline">
                     términos y condiciones
-                  </a>{" "}
-                  y{" "}
+                  </a>
+                  y
                   <a href="/" className="underline">
                     política de privacidad
                   </a>
@@ -108,4 +108,4 @@ function CartPage() {
   );
 }
 
-export default CartPage;
+export default CheckoutPage;

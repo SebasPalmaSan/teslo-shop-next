@@ -1,7 +1,7 @@
 import { PageNotFound } from "@/components";
 
-function NotFoundPageBySlug() {
+function GenderNotFoundPage() {
   return <PageNotFound />;
 }
 
-export default NotFoundPageBySlug;
+export default GenderNotFoundPage;
